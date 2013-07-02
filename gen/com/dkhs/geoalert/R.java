@@ -307,7 +307,9 @@ containing a value of this type.
         public static final int fillMandatoryFields=0x7f060029;
         public static final int hello_blank_fragment=0x7f060020;
         public static final int hello_world=0x7f06001b;
+        public static final int holdLocationOnMapToChoose=0x7f060031;
         public static final int latititudeLabel=0x7f060017;
+        public static final int loadingString=0x7f060030;
         /**  Location client code resources (prefix with location_client) 
 
         Begin strings for location.reporting

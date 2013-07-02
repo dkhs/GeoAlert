@@ -28,5 +28,7 @@
     <string name="mapSearchTesxtFieldHint">Search Location</string>
     <string name="mapSearchButtonLabel">Search</string>
     <string name="mapSearchLocationNotFound">Unable to find specified Location</string>
+    <string name="loadingString">Loading...</string>
+    <string name="holdLocationOnMapToChoose">Please tap and hold the location on Map to choose it</string>
 
 </resources>
